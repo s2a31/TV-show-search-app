@@ -1,0 +1,16 @@
+#searchForm {
+  padding-bottom: 10px;
+}
+.show {
+  display: inline-block;
+  width: 210px;
+  text-align: center;
+  background-color: rgb(226, 250, 226);
+  padding: 5px 5px 10px 5px;
+  margin: 5px;
+  overflow-wrap: break-word;
+}
+.show img {
+  display: block;
+  padding-bottom: 8px;
+}
